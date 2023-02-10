@@ -2,11 +2,11 @@
 Alzheimer predection using CNN model
 TABLE OF CONTENTS
 
-1.	Abstract……………………………………………………….4
-2.	Introduction…………………………………………………...5
-3.	Alzheimer’s………………………………………….………..8
-4.	Methodology………………………………………………….9
-5.	Results……………………………………………………….12
+1.	Abstract……………………………………………
+2.	Introduction…………………………………
+3.	Alzheimer’s……………………………………
+4.	Methodology……………………………………
+5.	Results………………………………………………
 
 ABSTRACT
 
